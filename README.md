@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# Modern UI/UX Restaurant Landing Page Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains the code for a **Modern UI/UX Restaurant Landing Page Website**, a fully responsive and visually stunning project. The goal of this project is to showcase how to build a professional-grade landing page with a focus on modern design and user experience.
 
-## Available Scripts
+## 📖 Project Description
 
-In the project directory, you can run:
+This project demonstrates the following key concepts and practices:
 
-### `npm start`
+1. **React Functional Components**: Modular and reusable components for efficient code organization.
+2. **React File and Folder Structure**: A well-organized structure for scalability and maintainability.
+3. **CSS Fundamentals**: Mastery of **Flexbox** and **Grid** for advanced layout designs.
+4. **Design Enhancements**:
+   - Implementation of soft and appealing animations.
+   - Usage of complex gradients for a polished modern look.
+5. **Responsiveness**:
+   - Seamlessly adapting designs to different screen sizes using media queries.
+6. **Deployment**:
+   - Hosting the website on high-performance servers.
+   - Assigning a custom domain name for a professional online presence.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ✨ Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Sleek and modern user interface
+- Smooth animations and visually appealing gradients
+- Fully responsive design for all devices
+- Reusable and maintainable React components
+- Fast and reliable deployment with a custom domain
 
-### `npm test`
+## 🛠️ Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Frontend**: React.js
+- **Styling**: CSS (Flexbox, Grid, BEM)
+- **Deployment**: Platforms like Netlify or Vercel
 
-### `npm run build`
+## 🚀 Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Follow these steps to set up and run the project locally:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/chhavi6V/gericht-restaurant
+   cd gericht-restaurant
+   ```
+2. Install dependencies:
+   ```
+   npm install
+   ```
+3. Start the development server:
+   ```
+   npm start
+   ```
+4. Open your browser and go to http://localhost:3000.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### 🌐 Live Demo
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Check out the live version of the website here - https://gericht-restaurant-sable.vercel.app
